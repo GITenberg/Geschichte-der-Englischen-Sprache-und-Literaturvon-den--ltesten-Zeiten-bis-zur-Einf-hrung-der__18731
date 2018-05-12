@@ -1,0 +1,31 @@
+_repo: Geschichte-der-Englischen-Sprache-und-Literaturvon-den--ltesten-Zeiten-bis-zur-Einf-hrung-der__18731
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Behnsch, Ottomar
+    birthdate: 1813
+    deathdate: 1869
+    gutenberg_agent_id: '8209'
+    url: http://www.gutenberg.org/2009/agents/8209
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18731'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English literature'
+- !lcc 'PR'
+- !lcsh 'English language'
+- !lcc 'PE'
+title: 'Geschichte der Englischen Sprache und Literatur
+
+  von den ältesten Zeiten bis zur Einführung der Buchdruckerkunst'
+url: http://www.gutenberg.org/ebooks/18731
