@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '8209'
     url: http://www.gutenberg.org/2009/agents/8209
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18731#Geschichte-der-Englischen-Sprache-und-Literaturvon-den--ltesten-Zeiten-bis-zur-Einf-hrung-der_
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
